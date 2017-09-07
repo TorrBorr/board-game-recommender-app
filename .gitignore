@@ -1,2 +1,5 @@
 *.csv
 BoardGameGeekData.ipynb
+*.ppt
+*.pptx
+*.pkl
